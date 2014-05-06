@@ -1,7 +1,7 @@
-wiki-markup
+wiki-markdown
 ===========
 
-Wikipedia markup
+Wikipedia markdown
 
 This is the latest on http://www.rit.edu/studentaffairs/ritpedia/wiki/InterVarsity_Christian_Fellowship
 
